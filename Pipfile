@@ -9,6 +9,7 @@ pandas = "*"
 numpy = "*"
 matplotlib = "*"
 statsmodels = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
