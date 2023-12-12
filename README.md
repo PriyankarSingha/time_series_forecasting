@@ -1,2 +1,2 @@
 # time_series_forecasting
-Time Series Forecasting for a monthly production
+Time Series Forecasting for a monthly production of milk
